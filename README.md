@@ -11,7 +11,8 @@ The project fetches real-time news using an external API and delivers a smooth b
 
 * Fetch top headlines and category-based news
 * Search news in real time
-* Dynamic routing for Home, Explore, and Search pages
+* Dynamic routing for Home
+* dynamic youting for Explore, and Search pages
 * Fully responsive layout (mobile → tablet → desktop)
 * Carousel for top headlines
 * Load More functionality
